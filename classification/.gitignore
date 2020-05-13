@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+.DS_Store
+__pycache__/
+*.csv
+env.py
+*.pdf
+data/
+from_instructors/
+
