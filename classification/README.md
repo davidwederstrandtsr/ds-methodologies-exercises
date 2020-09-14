@@ -1,2 +1,2 @@
-Need to add items to readme
-need to discuss the files
+# Classification
+I need to redo all of the work I lost 
